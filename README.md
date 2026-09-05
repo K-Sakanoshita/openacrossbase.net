@@ -10,13 +10,13 @@ OpenStreetMap、Wikimedia、地域活動などを横断しながら制作・運�
 
 ## Projects
 
-- [まち歩きマップメーカー](https://armd-02.github.io/mapmaker/)
+- [まち歩きマップメーカー](https://mapmaker.openacrossbase.net/)
   - OpenStreetMapを使った、まち歩きや地域活動向けの地図作成ツール
 - [OSM What's New Japan](https://armd-01.sakura.ne.jp/whatsnew/)
   - 日本国内でOpenStreetMapに追加・更新された地物を見つけるためのダッシュボード
-- [遊具のある公園マップ](https://armd-02.github.io/Playgrounds/)
+- [遊具のある公園マップ](https://playgrounds.openacrossbase.net/)
   - 遊具や公園の情報を地図から探すWebマップ
-- [少し昔の地図を見てみよう](https://armd-02.github.io/TimeMapTravel_Japan/)
+- [少し昔の地図を見てみよう](https://timemap.openacrossbase.net/)
   - 現在の地図と少し昔の地図を比較しながら見るためのWebマップ
 - [大阪思い出のこしマップ](https://armd-02.github.io/OsakaMemories/)
   - 大阪市立図書館の「思い出のこしプロジェクト」で公開されている情報を地図で閲覧するツール
